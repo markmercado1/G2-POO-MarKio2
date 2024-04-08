@@ -8,6 +8,7 @@ public class Principal {
         System.out.println("La mamá provee "+ma.alimento);
         Mama.Bebe bb =ma.new Bebe ();
         System.out.println("Su bebe tiene un peso de:"+bb.peso+" kg");
+        System.out.println("git hub cambios de el proyecto ");
     
     }
     
